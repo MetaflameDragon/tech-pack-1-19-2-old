@@ -1,0 +1,16 @@
+# Whitelist setup
+*
+!*/
+
+!.gitignore
+
+
+# Track mods including subdirs
+!.minecraft/mods/**
+
+# Track configs
+!.minecraft/config/**
+
+# Track options
+!.minecraft/options.txt
+!.minecraft/optionsof.txt
